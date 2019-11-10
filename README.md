@@ -1,2 +1,7 @@
-Ultimos addons e monstros do Global adicionado update 12.15 com, 
-as imagens do teste server que esta rolando esse mês de julho.
+Atualizado com as imagens do ultimo test server.
+
+
+
+Nunca pedi nada pra vcs seus merdas me sigam no Youtube.
+
+https://www.youtube.com/c/BruxoOtserver
