@@ -14,7 +14,7 @@ $speeds = [ // outfitAnimationFramesNumber = speed
 	9 => 8
 ];
 // folder with images
-$outfitImagesPath = 'outfitsAnim1099/';
+$outfitImagesPath = 'animatedOutfits/';
 
 // FORCE CACHE
 header('Cache-control: max-age='.(60*60*24*365));
